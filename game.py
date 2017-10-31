@@ -1,26 +1,46 @@
 import pygame
 
-UP = (0, -1)
-DOWN = (0, 1)
-LEFT = (-1, 0)
-RIGHT = (1, 0)
+class Worm:
 
-class MovingPixel:
-    def __init__(self, x, y):
+    def __init__(self, surface, x, y, length):
+        self.surface = surface
         self.x = x
         self.y = y
-        self.hdir = 0
-        self.vdir = -1
+        self.length = length
+        self.dir_x = 0
+        self.dir_y = -1
+        self.body = []
+        self.crashed = False
 
-    def direction(self, dir):
-        self.hdir, self.vdir = dir
+    def key_event(self, event):
+        if event.key == pygame.K_UP:
+            self.dir_x = 0
+            self.dir_y = -1
+        elif event.key == pygame.K_DOWN:
+            self.dir_x = 0
+            self.dir_y = 1
+        elif event.key == pygame.K_LEFT:
+            self.dir_x = -1
+            self.dir_y = 0
+        elif event.key == pygame.K_RIGHT:
+            self.dir_x = 1
+            self.dir_y = 0
 
     def move(self):
-        self.x += self.hdir
-        self.y += self.vdir
+        self.x += self.dir_x
+        self.y += self.dir_y
 
-    def draw(self, surface):
-        surface.set_at((self.x, self.y), (255, 255, 255))
+        if (self.x, self.y) in self.body:
+            self.crashed = True
+
+        self.body.insert(0, (self.x, self.y))
+
+        if len(self.body) > self.length:
+            self.body.pop()
+
+    def draw(self):
+        for x, y in self.body:
+            self.surface.set_at((x, y), (255, 255, 255))
 
 width = 640
 height = 400
@@ -32,30 +52,22 @@ running = True
 roundedWidth = int(round(width / 2))
 roundedHeight = int(round(height / 2))
 
-pix = MovingPixel(roundedWidth, roundedHeight)
+w = Worm(screen, roundedWidth, roundedHeight, 200)
 
 while running:
-    pix.move()
-
-    if pix.x <= 0 or pix.x >= width or pix.y <= 0 or pix.y >= height:
-        print("Crash!")
-        running = False
-
     screen.fill((0, 0, 0))
-    pix.draw(screen)
+    w.move()
+    w.draw()
+
+    if w.crashed or w.x <= 0 or w.x >= width -1 or w.y <= 0 or w.y >= height - 1:
+        print ("Crash!")
+        running = False
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
         elif event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_UP:
-                pix.direction(UP)
-            elif event.key == pygame.K_DOWN:
-                pix.direction(DOWN)
-            elif event.key == pygame.K_LEFT:
-                pix.direction(LEFT)
-            elif event.key == pygame.K_RIGHT:
-                pix.direction(RIGHT)
+            w.key_event(event)
 
     pygame.display.flip()
-    clock.tick(120)
+    clock.tick(240)
