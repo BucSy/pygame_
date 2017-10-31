@@ -1,25 +1,48 @@
 import pygame
 
-y = 0
-dir = 1
-running = 1
-barheight = 124
-screen = pygame.display.set_mode((800, 600))
+width = 640
+height = 400
 
-barcolor = []
-for i in range(1, 63):
-    barcolor.append((0,0, i*4))
-for i in range(1, 63):
-    barcolor.append((0,0, 255 - i*4))
+x = int(round(width / 2))
+y = int(round(height / 2))
+
+dir_x = 0
+dir_y = -1
+
+screen = pygame.display.set_mode((width, height))
+clock = pygame.time.Clock()
+running = True
 
 while running:
-    event = pygame.event.poll()
-    if (event.type == pygame.QUIT):
-        running = 0
-    screen.fill((0,0,0))
-    for i in range(0, barheight):
-        pygame.draw.line(screen, barcolor[i], (0, y+i), (799, y+i))
-    y += dir
-    if (y + barheight > 599 or y < 0):
-        dir *= -1
+    x += dir_x
+    y += dir_y
+
+    if x <= 0 or x >= width or y <= 0 or y >= height:
+        print("Crash!")
+        print(x)
+        print(y)
+        running = False
+
+    screen.fill((0, 0, 0))
+    screen.set_at((x, y), (255, 255, 255))
+
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_UP:
+                dir_x = 0
+                dir_y = -1
+                print("up")
+            elif event.key == pygame.K_DOWN:
+                dir_x = 0
+                dir_y = 1
+            elif event.key == pygame.K_LEFT:
+                dir_x = -1
+                dir_y = 0
+            elif event.key == pygame.K_RIGHT:
+                dir_x = 1
+                dir_y = 0
+
     pygame.display.flip()
+    clock.tick(120)
