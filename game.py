@@ -12,19 +12,28 @@ class Worm:
         self.body = []
         self.crashed = False
 
+    def currentDirection(self, dir_xx, dir_yy):
+        self.dir_xx = dir_xx
+        self.dir_yy = dir_yy
+        print(dir_xx, dir_yy)
+
     def key_event(self, event):
         if event.key == pygame.K_UP:
             self.dir_x = 0
             self.dir_y = -1
+            w.currentDirection(0, -1)
         elif event.key == pygame.K_DOWN:
             self.dir_x = 0
             self.dir_y = 1
+            w.currentDirection(0, 1)
         elif event.key == pygame.K_LEFT:
             self.dir_x = -1
             self.dir_y = 0
+            w.currentDirection(-1, 0)
         elif event.key == pygame.K_RIGHT:
             self.dir_x = 1
             self.dir_y = 0
+            w.currentDirection(1, 0)
 
     def move(self):
         self.x += self.dir_x
@@ -41,6 +50,7 @@ class Worm:
     def draw(self):
         for x, y in self.body:
             self.surface.set_at((x, y), (255, 255, 255))
+
 
 width = 640
 height = 400
