@@ -82,8 +82,8 @@ class Worm:
 class Food:
     def __init__(self, surface):
         self.surface = surface
-        self.x = random.randint(0, surface.get_width())
-        self.y = random.randint(0, surface.get_height())
+        self.x = random.randint(1, surface.get_width())
+        self.y = random.randint(1, surface.get_height())
         self.color = 255, 255, 255
 
     def draw(self):
@@ -112,9 +112,19 @@ while running:
     w.draw()
     food.draw()
 
-    if w.crashed or w.x <= 0 or w.x >= width -1 or w.y <= 0 or w.y >= height - 1:
+    if w.crashed:
         print ("Crash!")
         running = False
+    if w.x <= 0:
+        print("kisebb mint 0")
+        w.x = width - 2
+    if w.x >= width - 1:
+        w.x = 1
+    if w.y <= 0:
+        w.y = height - 2
+    if w.y >= height - 1:
+        w.y = 1
+
     elif w.position() == food.position():
          score += 1
          w.eat()
