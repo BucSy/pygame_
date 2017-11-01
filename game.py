@@ -12,28 +12,48 @@ class Worm:
         self.body = []
         self.crashed = False
 
-    def currentDirection(self, dir_xx, dir_yy):
-        self.dir_xx = dir_xx
-        self.dir_yy = dir_yy
-        print(dir_xx, dir_yy)
+
+    def canGoUp(self):
+        if self.dir_x == 0 and self.dir_y == 1:
+            print("Nem mehet fel")
+            return False
+        else:
+            return True
+
+    def canGoDown(self):
+        if self.dir_x == 0 and self.dir_y == -1:
+            print("Nem mehet fel")
+            return False
+        else:
+            return True
+
+    def canGoLeft(self):
+        if self.dir_x == 1 and self.dir_y == 0:
+            print("Nem mehet fel")
+            return False
+        else:
+            return True
+
+    def canGoRight(self):
+        if self.dir_x == -1 and self.dir_y == 0:
+            print("Nem mehet fel")
+            return False
+        else:
+            return True
 
     def key_event(self, event):
-        if event.key == pygame.K_UP:
+        if event.key == pygame.K_UP and w.canGoUp():
             self.dir_x = 0
             self.dir_y = -1
-            w.currentDirection(0, -1)
-        elif event.key == pygame.K_DOWN:
+        elif event.key == pygame.K_DOWN and w.canGoDown():
             self.dir_x = 0
             self.dir_y = 1
-            w.currentDirection(0, 1)
-        elif event.key == pygame.K_LEFT:
+        elif event.key == pygame.K_LEFT and w.canGoLeft():
             self.dir_x = -1
             self.dir_y = 0
-            w.currentDirection(-1, 0)
-        elif event.key == pygame.K_RIGHT:
+        elif event.key == pygame.K_RIGHT and w.canGoRight():
             self.dir_x = 1
             self.dir_y = 0
-            w.currentDirection(1, 0)
 
     def move(self):
         self.x += self.dir_x
@@ -78,6 +98,7 @@ while running:
             running = False
         elif event.type == pygame.KEYDOWN:
             w.key_event(event)
+
 
     pygame.display.flip()
     clock.tick(240)
