@@ -1,4 +1,5 @@
 import pygame
+import random
 
 class Worm:
 
@@ -7,11 +8,14 @@ class Worm:
         self.x = x
         self.y = y
         self.length = length
+        self.grow_to = 50
         self.dir_x = 0
         self.dir_y = -1
         self.body = []
         self.crashed = False
 
+    def eat(self):
+        self.grow_to += 25
 
     def canGoUp(self):
         if self.dir_x == 0 and self.dir_y == 1:
@@ -71,12 +75,30 @@ class Worm:
         for x, y in self.body:
             self.surface.set_at((x, y), (255, 255, 255))
 
+    def position(self):
+        return self.x, self.y
+
+
+class Food:
+    def __init__(self, surface):
+        self.surface = surface
+        self.x = random.randint(0, surface.get_width())
+        self.y = random.randint(0, surface.get_height())
+        self.color = 255, 255, 255
+
+    def draw(self):
+        self.surface.set_at((self.x, self.y), self.color)
+    def position(self):
+        return self.x, self.y
+
 
 width = 640
 height = 400
 
+score = 0
 screen = pygame.display.set_mode((width, height))
 clock = pygame.time.Clock()
+food = Food(screen)
 running = True
 
 roundedWidth = int(round(width / 2))
@@ -88,10 +110,16 @@ while running:
     screen.fill((0, 0, 0))
     w.move()
     w.draw()
+    food.draw()
 
     if w.crashed or w.x <= 0 or w.x >= width -1 or w.y <= 0 or w.y >= height - 1:
         print ("Crash!")
         running = False
+    elif w.position() == food.position():
+         score += 1
+         w.eat()
+         print ("Score: %d" % score)
+         food = Food(screen)
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
