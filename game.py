@@ -91,6 +91,9 @@ class Food:
     def position(self):
         return self.x, self.y
 
+pygame.font.init()
+default_font = pygame.font.get_default_font()
+font_renderer = pygame.font.Font(default_font, 20)
 
 width = 640
 height = 400
@@ -129,6 +132,12 @@ while running:
          score += 1
          w.eat()
          print ("Score: %d" % score)
+         label = font_renderer.render(
+         "Score: %d" %score,
+         1,
+         (255, 251, 66)
+         )
+         screen.blit(label, (60, 60)) #should make this to not update every frame 
          food = Food(screen)
 
     for event in pygame.event.get():
@@ -139,4 +148,4 @@ while running:
 
 
     pygame.display.flip()
-    clock.tick(240)
+    clock.tick(10)
