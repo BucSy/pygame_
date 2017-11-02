@@ -78,6 +78,14 @@ class Worm:
     def position(self):
         return self.x, self.y
 
+    def scoreUpdater(self, score):
+        self.score = score
+        label = font_renderer.render(
+        "Score: %d" %score,
+        1,
+        (255, 251, 66)
+        )
+        self.surface.blit(label, (60, 60))
 
 class Food:
     def __init__(self, surface):
@@ -132,12 +140,7 @@ while running:
          score += 1
          w.eat()
          print ("Score: %d" % score)
-         label = font_renderer.render(
-         "Score: %d" %score,
-         1,
-         (255, 251, 66)
-         )
-         screen.blit(label, (60, 60)) #should make this to not update every frame 
+         w.scoreUpdater(score) #should make this to not update every frame
          food = Food(screen)
 
     for event in pygame.event.get():
