@@ -1,22 +1,12 @@
 {
-    results: [
+    "results": [
         {
-            name: {
-                first:"asdasdads",
-                last: "asdasdasd"
-            }
+            "champname" : "Annie",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Annie.png"
         },
         {
-            name: {
-                first:"asdas1111dads",
-                last: "asdasdasd"
-            }
-        },
-        {
-            name: {
-                first:"asdas22222dads",
-                last: "asdasdasd"
-            }
-        },
+            "champname" : "Rengar",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        }
     ]
 }
