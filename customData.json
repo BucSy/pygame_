@@ -1,12 +1,10 @@
-{
-    "jason" : {
-        "name" : "Jason Lengstorf",
-        "age" : "24",
-        "gender" : "male"
+[
+    {
+      "name" : "Jason Lengstorf",
+      "age" : "24",
     },
-    "kyle" : {
+    {
         "name" : "Kyle Lengstorf",
         "age" : "21",
-        "gender" : "male"
     }
-}
+]
