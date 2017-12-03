@@ -1,11 +1,551 @@
 {
     "results": [
         {
+            "champname" : "Aatrox",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Aatrox.png"
+        },
+        {
+            "champname" : "Ahri",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Akali",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Alistar",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Amumu",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Anivia",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
             "champname" : "Annie",
-            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Annie.png"
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Ashe",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Aurelion",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Azir",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Bard",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Blitzcrank",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Brand",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Braum",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Caitlyn",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Camille",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Cassiopeia",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Cho'Gath",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Corki",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Darius",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Diana",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Dr. Mundo",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Draven",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Ekko",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Elise",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Evelynn",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Ezreal",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Fiddlesticks",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Fiora",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Fizz",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Galio",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Gangplank",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Garen",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Gragas",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Graves",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Hecarim",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Heimerdinger",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Illaoi",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Irelia",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Ivern",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Janna",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Jarvan IV",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Jax",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Jayce",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Jhin",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Jinx",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kalista",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Karma",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Karthus",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kassadin",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Katarina",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kayle",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kayn",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kennen",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kha'Zix",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kindred",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kled",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Kog'Maw",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "LeBlanc",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Lee Sin",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Leona",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Lissandra",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Lucian",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Lulu",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Lux",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Malphite",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Malzahar",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Maokai",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Master Yi",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Miss Fortune",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Mordekaiser",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Morgana",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Nami",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Nasus",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Nautilus",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Nidalee",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Nocturne",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Nunu",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Olaf",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Orianna",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Ornn",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Pantheon",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Poppy",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Quinn",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Rakan",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Rammus",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Rek'Sai",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Renekton",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
         },
         {
             "champname" : "Rengar",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Riven",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Rumble",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Ryze",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Sejuani",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Shaco",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Shen",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Shyvana",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Singed",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Sion",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Sivir",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Skarner",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Sona",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Soraka",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Swain",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Syndra",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Tahm Kench",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Taliyah",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Talon",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Taric",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Teemo",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Thresh",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Tristana",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Trundle",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Tryndamere",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Twisted Fate",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Twitch",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Udyr",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Urgot",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Varus",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Vayne",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Vel'Koz",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Vi",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Viktor",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Vladimir",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Volibear",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Warwick",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Wukong",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Xayah",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Xerath",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Xin Zhao",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Yasuo",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Yorick",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Zac",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Zed",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Ziggs",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Zilean",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Zoe",
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
+        },
+        {
+            "champname" : "Zyra",
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.10.1/img/champion/Rengar.png"
         }
     ]
