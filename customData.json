@@ -1,5 +1,4 @@
-{
-    "results": [
+[
         {
             "champname" : "Aatrox",
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Aatrox.png"
@@ -548,5 +547,5 @@
             "champname" : "Zyra",
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Zyra.png"
         }
-    ]
-}
+]
+
