@@ -4,44 +4,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Aatrox.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Precision",
+                    "desc" : "Improved attacks and sustained damage",
+                    "img" : "http://evilpug.com/runes/precision.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Lethal Tempo",
+                    "desc" : "1.5s after damaging a champion gain a large amount of attack speed. Lethal Tempo allows you to temporarily exceed the attack speed limit.",
+                    "img" : "http://evilpug.com/runes/lethal-tempo.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Triumph",
+                    "desc" : "Takedowns restore 15% of your missing health and grant an additional 25 gold.",
+                    "img" : "http://evilpug.com/runes/triumph.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Legend: Alacrity",
+                    "desc" : "Takedowns on enemies grant permanent Attack Speed.",
+                    "img" : "http://evilpug.com/runes/legend-alacrity.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Coup de Grace",
+                    "desc" : "Deal more damage to low health enemy champions.",
+                    "img" : "http://evilpug.com/runes/coup-de-grace.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Resolve",
+                    "desc" : "Durability and crowd control",
+                    "img" : "http://evilpug.com/runes/resolve.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Conditioning",
+                    "desc" : "After 10 min gain +8 Armor and +8 Magic Resist and increase your Armor and Magic Resist by 5%.",
+                    "img" : "http://evilpug.com/runes/conditioning.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Overgrowth",
+                    "desc" : "Gain additional permanent max health when minions or monsters die near you.",
+                    "img" : "http://evilpug.com/runes/overgrowth.png"
                 }
             }
         },
