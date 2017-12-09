@@ -1,7 +1,49 @@
 [
         {
             "champname" : "Aatrox",
-            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Aatrox.png"
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Aatrox.png",
+            "runes" : {
+                "mainrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "firstrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "secondrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "thirdrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "forthrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "secondmainrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "nextpagerunafirst" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "nextpagerunesecond" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                }
+            }
         },
         {
             "champname" : "Ahri",
@@ -53,7 +95,49 @@
         },
         {
             "champname" : "Braum",
-            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Braum.png"
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Braum.png",
+            "runes" : {
+                "mainrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "firstrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "secondrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "thirdrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "forthrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "secondmainrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "nextpagerunafirst" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "nextpagerunesecond" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                }
+            }
         },
         {
             "champname" : "Caitlyn",
@@ -545,7 +629,49 @@
         },
         {
             "champname" : "Zyra",
-            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Zyra.png"
+            "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Zyra.png",
+            "runes" : {
+                "mainrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "firstrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "secondrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "thirdrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "forthrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "secondmainrune" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "nextpagerunafirst" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                },
+                "nextpagerunesecond" : {
+                    "title" : "name_of_rune",
+                    "desc" : "rune_desc",
+                    "img" : "img_of_rune"
+                }
+            }
         }
 ]
 
