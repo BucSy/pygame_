@@ -648,44 +648,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Caitlyn.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Precision",
+                    "desc" : "Improved attacks and sustained damage",
+                    "img" : "http://evilpug.com/runes/precision.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Fleet Footwork",
+                    "desc" : "Attacking and moving builds Energy stacks. At 100 stacks, your next attack heals you and grants increased MS.",
+                    "img" : "http://evilpug.com/runes/fleet-footwork.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Triumph",
+                    "desc" : "Takedowns restore 15% of your missing health and grant an additional 25 gold.",
+                    "img" : "http://evilpug.com/runes/triumph.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Legend: Alacrity",
+                    "desc" : "Takedowns on enemies grant permanent Attack Speed.",
+                    "img" : "http://evilpug.com/runes/legend-alacrity.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Coup de Grace",
+                    "desc" : "Deal more damage to low health enemy champions.",
+                    "img" : "http://evilpug.com/runes/coup-de-grace.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Sorcery",
+                    "desc" : "Empowered abilities and resource manipulation",
+                    "img" : "http://evilpug.com/runes/sorcery.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Celerity",
+                    "desc" : "Gain 4% extra MS. Gain extra AP or AD, adaptive based on your bonus MS.",
+                    "img" : "http://evilpug.com/runes/celerity.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Gathering Storm",
+                    "desc" : "Gain increasing amounts of AD or AP, adaptive over the course of the game.",
+                    "img" : "http://evilpug.com/runes/gathering-storm.png"
                 }
             }
         },
@@ -694,44 +694,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Camille.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Resolve",
+                    "desc" : "Durability and crowd control",
+                    "img" : "http://evilpug.com/runes/resolve.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Aftershock",
+                    "desc" : "After immobilizing an enemy champion gain defenses and later deal a burst of adaptive damage around you.",
+                    "img" : "http://evilpug.com/runes/aftershock.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Font of Life",
+                    "desc" : "Impairing the movement of an enemy champion marks them. Your allies heal when attacking champions you've marked.",
+                    "img" : "http://evilpug.com/runes/font-of-life.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Conditioning",
+                    "desc" : "After 10 min gain +8 Armor and +8 Magic Resist and increase your Armor and Magic Resist by 5%.",
+                    "img" : "http://evilpug.com/runes/conditioning.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Second Wind",
+                    "desc" : "After taking damage from an enemy champion heal back some of your missing health over time.",
+                    "img" : "http://evilpug.com/runes/second-wind.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Domination",
+                    "desc" : "Burst damage and target access",
+                    "img" : "http://evilpug.com/runes/domination.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Cheap Shot",
+                    "desc" : "Deal bonus true damage to enemies with impaired movement or actions.",
+                    "img" : "http://evilpug.com/runes/cheap-shot.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Zombie Ward",
+                    "desc" : "After killing a ward, a friendly Zombie Ward is raised in its place. When your wards expire, they also reanimate as Zombie Wards.",
+                    "img" : "http://evilpug.com/runes/zombie-ward.png"
                 }
             }
         },
@@ -740,44 +740,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Cassiopeia.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Sorcery",
+                    "desc" : "Empowered abilities and resource manipulation",
+                    "img" : "http://evilpug.com/runes/sorcery.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Phase Rush",
+                    "desc" : "Hitting an enemy champion with 3 separate attacks or abilities grants a burst of MS.",
+                    "img" : "http://evilpug.com/runes/phase-rush.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Nullifying Orb",
+                    "desc" : "Gain a magic damage shield when taken to low health by magic damage.",
+                    "img" : "http://evilpug.com/runes/nullifying-orb.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Celerity",
+                    "desc" : "Gain 4% extra MS. Gain extra AP or AD, adaptive based on your bonus MS.",
+                    "img" : "http://evilpug.com/runes/celerity.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Scorch",
+                    "desc" : "Your first ability hit every 20s burns champions.",
+                    "img" : "http://evilpug.com/runes/scorch.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Domination",
+                    "desc" : "Burst damage and target access",
+                    "img" : "http://evilpug.com/runes/domination.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Cheap Shot",
+                    "desc" : "Deal bonus true damage to enemies with impaired movement or actions.",
+                    "img" : "http://evilpug.com/runes/cheap-shot.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Ravenous Hunter",
+                    "desc" : "Unique takedowns grant permanent healing from ability damage.",
+                    "img" : "http://evilpug.com/runes/ravenous-hunter.png"
                 }
             }
         },
@@ -786,44 +786,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Chogath.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Resolve",
+                    "desc" : "Durability and crowd control",
+                    "img" : "http://evilpug.com/runes/resolve.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Aftershock",
+                    "desc" : "After immobilizing an enemy champion gain defenses and later deal a burst of adaptive damage around you.",
+                    "img" : "http://evilpug.com/runes/aftershock.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Font of Life",
+                    "desc" : "Impairing the movement of an enemy champion marks them. Your allies heal when attacking champions you've marked.",
+                    "img" : "http://evilpug.com/runes/font-of-life.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Conditioning",
+                    "desc" : "After 10 min gain +8 Armor and +8 Magic Resist and increase your Armor and Magic Resist by 5%.",
+                    "img" : "http://evilpug.com/runes/conditioning.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Overgrowth",
+                    "desc" : "Gain additional permanent max health when minions or monsters die near you.",
+                    "img" : "http://evilpug.com/runes/overgrowth.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Sorcery",
+                    "desc" : "Empowered abilities and resource manipulation",
+                    "img" : "http://evilpug.com/runes/sorcery.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "The Ultimate Hat",
+                    "desc" : "Your ultimate's cooldown is reduced. Each time you cast your ultimate, its cooldown is further reduced.",
+                    "img" : "http://evilpug.com/runes/the-ultimate-hat.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Celerity",
+                    "desc" : "Gain 4% extra MS. Gain extra AP or AD, adaptive based on your bonus MS.",
+                    "img" : "http://evilpug.com/runes/celerity.png"
                 }
             }
         },
@@ -832,44 +832,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Corki.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Sorcery",
+                    "desc" : "Empowered abilities and resource manipulation",
+                    "img" : "http://evilpug.com/runes/sorcery.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Summon Aery",
+                    "desc" : "Your attacks and abilities send Aery to a target, damaging enemies or shielding allies.",
+                    "img" : "http://evilpug.com/runes/summon-aery.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Manaflow Band",
+                    "desc" : "Periodically your next ability used has its mana or energy cost refunded and restores some of your missing mana or energy.",
+                    "img" : "http://evilpug.com/runes/manaflow-band.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Celerity",
+                    "desc" : "Gain 4% extra MS. Gain extra AP or AD, adaptive based on your bonus MS.",
+                    "img" : "http://evilpug.com/runes/celerity.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Scorch",
+                    "desc" : "Your first ability hit every 20s burns champions.",
+                    "img" : "http://evilpug.com/runes/scorch.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Precision",
+                    "desc" : "Improved attacks and sustained damage",
+                    "img" : "http://evilpug.com/runes/precision.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Triumph",
+                    "desc" : "Takedowns restore 15% of your missing health and grant an additional 25 gold.",
+                    "img" : "http://evilpug.com/runes/triumph.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Coup de Grace",
+                    "desc" : "Deal more damage to low health enemy champions.",
+                    "img" : "http://evilpug.com/runes/coup-de-grace.png"
                 }
             }
         },
@@ -878,44 +878,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Darius.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Sorcery",
+                    "desc" : "Empowered abilities and resource manipulation",
+                    "img" : "http://evilpug.com/runes/sorcery.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Phase Rush",
+                    "desc" : "Hitting an enemy champion with 3 separate attacks or abilities grants a burst of MS.",
+                    "img" : "http://evilpug.com/runes/phase-rush.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Nullifying Orb",
+                    "desc" : "Gain a magic damage shield when taken to low health by magic damage.",
+                    "img" : "http://evilpug.com/runes/nullifying-orb.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Celerity",
+                    "desc" : "Gain 4% extra MS. Gain extra AP or AD, adaptive based on your bonus MS.",
+                    "img" : "http://evilpug.com/runes/celerity.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Scorch",
+                    "desc" : "Your first ability hit every 20s burns champions.",
+                    "img" : "http://evilpug.com/runes/scorch.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Precision",
+                    "desc" : "Improved attacks and sustained damage",
+                    "img" : "http://evilpug.com/runes/precision.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Legend: Alacrity",
+                    "desc" : "Takedowns on enemies grant permanent Attack Speed.",
+                    "img" : "http://evilpug.com/runes/legend-alacrity.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Last Stand",
+                    "desc" : "Deal more damage to champions while you are low on health.",
+                    "img" : "http://evilpug.com/runes/last-stand.png"
                 }
             }
         },
@@ -924,44 +924,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Diana.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Sorcery",
+                    "desc" : "Empowered abilities and resource manipulation",
+                    "img" : "http://evilpug.com/runes/sorcery.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Summon Aery",
+                    "desc" : "Your attacks and abilities send Aery to a target, damaging enemies or shielding allies.",
+                    "img" : "http://evilpug.com/runes/summon-aery.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Nullifying Orb",
+                    "desc" : "Gain a magic damage shield when taken to low health by magic damage.",
+                    "img" : "http://evilpug.com/runes/nullifying-orb.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Absolute Focus",
+                    "desc" : "While above 70% health, gain extra adaptive damage.",
+                    "img" : "http://evilpug.com/runes/absolute-focus.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Scorch",
+                    "desc" : "Your first ability hit every 20s burns champions.",
+                    "img" : "http://evilpug.com/runes/scorch.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Resolve",
+                    "desc" : "Durability and crowd control",
+                    "img" : "http://evilpug.com/runes/resolve.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Mirror Shell",
+                    "desc" : "Gain +5 Magic Resist. Heals, including consumables, increase your Magic Resist by 5% temorarily.",
+                    "img" : "http://evilpug.com/runes/mirror-shell.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Second Wind",
+                    "desc" : "After taking damage from an enemy champion heal back some of your missing health over time.",
+                    "img" : "http://evilpug.com/runes/second-wind.png"
                 }
             }
         },
@@ -970,44 +970,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/DrMundo.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Resolve",
+                    "desc" : "Durability and crowd control",
+                    "img" : "http://evilpug.com/runes/resolve.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Grasp of the Undying",
+                    "desc" : "Every 4s your next attack on a champion deals bonus magic damage, heals you, and permanently increases your health.",
+                    "img" : "http://evilpug.com/runes/grasp-of-the-undying.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Unflinching",
+                    "desc" : "After casting a Summoner Spell, gain Tenacity and Slow Resistance for a shot duration. Additionally, gain Tenacity and Slow Resistance for each Summoner Spell on cooldown.",
+                    "img" : "http://evilpug.com/runes/unflinching.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Conditioning",
+                    "desc" : "After 10 min gain +8 Armor and +8 Magic Resist and increase your Armor and Magic Resist by 5%.",
+                    "img" : "http://evilpug.com/runes/conditioning.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Overgrowth",
+                    "desc" : "Gain additional permanent max health when minions or monsters die near you.",
+                    "img" : "http://evilpug.com/runes/overgrowth.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Domination",
+                    "desc" : "Burst damage and target access",
+                    "img" : "http://evilpug.com/runes/domination.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Cheap Shot",
+                    "desc" : "Deal bonus true damage to enemies with impaired movement or actions.",
+                    "img" : "http://evilpug.com/runes/cheap-shot.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Ravenous Hunter",
+                    "desc" : "Unique takedowns grant permanent healing from ability damage.",
+                    "img" : "http://evilpug.com/runes/ravenous-hunter.png"
                 }
             }
         },
@@ -1016,44 +1016,44 @@
             "photo" : "https://ddragon.leagueoflegends.com/cdn/7.23.1/img/champion/Draven.png",
             "runes" : {
                 "mainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Precision",
+                    "desc" : "Improved attacks and sustained damage",
+                    "img" : "http://evilpug.com/runes/precision.png"
                 },
                 "firstrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Press the Attack",
+                    "desc" : "Hitting an enemy champion 3 consecutive times makes them vunerable, dealing bonus damage and causing them to take more damage from all sources for 6s.",
+                    "img" : "http://evilpug.com/runes/press-the-attack.png"
                 },
                 "secondrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Triumph",
+                    "desc" : "Takedowns restore 15% of your missing health and grant an additional 25 gold.",
+                    "img" : "http://evilpug.com/runes/triumph.png"
                 },
                 "thirdrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Legend: Bloodline",
+                    "desc" : "Takedowns on enemies grant permanent Lifesteal.",
+                    "img" : "http://evilpug.com/runes/legend-bloodline.png"
                 },
                 "forthrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Coup de Grace",
+                    "desc" : "Deal more damage to low health enemy champions.",
+                    "img" : "http://evilpug.com/runes/coup-de-grace.png"
                 },
                 "secondmainrune" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Sorcery",
+                    "desc" : "Empowered abilities and resource manipulation",
+                    "img" : "http://evilpug.com/runes/sorcery.png"
                 },
                 "nextpagerunafirst" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Celerity",
+                    "desc" : "Gain 4% extra MS. Gain extra AP or AD, adaptive based on your bonus MS.",
+                    "img" : "http://evilpug.com/runes/celerity.png"
                 },
                 "nextpagerunesecond" : {
-                    "title" : "name_of_rune",
-                    "desc" : "rune_desc",
-                    "img" : "img_of_rune"
+                    "title" : "Gathering Storm",
+                    "desc" : "Gain increasing amounts of AD or AP, adaptive over the course of the game.",
+                    "img" : "http://evilpug.com/runes/gathering-storm.png"
                 }
             }
         },
