@@ -6300,6 +6300,52 @@
                     "img" : "http://evilpug.com/runes/zombie-ward.png"
                 }
             }
+        },
+        {
+            "champname" : "Kai'Sa",
+            "photo" : "http://ddragon.leagueoflegends.com/cdn/8.5.1/img/champion/Kaisa.png",
+            "runes" : {
+                "mainrune" : {
+                    "title" : "Precision",
+                    "desc" : "Improved attacks and sustained damage",
+                    "img" : "http://evilpug.com/runes/precision.png"
+                },
+                "firstrune" : {
+                    "title" : "Fleet Footwork",
+                    "desc" : "Attacking and moving builds Energy stacks. At 100 stacks, your next attack heals you and grants increased MS.",
+                    "img" : "http://evilpug.com/runes/fleet-footwork.png"
+                },
+                "secondrune" : {
+                    "title" : "Triumph",
+                    "desc" : "Takedowns restore 15% of your missing health and grant an additional 25 gold.",
+                    "img" : "http://evilpug.com/runes/triumph.png"
+                },
+                "thirdrune" : {
+                    "title" : "Legend: Alacrity",
+                    "desc" : "Takedowns on enemies grant permanent Attack Speed.",
+                    "img" : "http://evilpug.com/runes/legend-alacrity.png"
+                },
+                "forthrune" : {
+                    "title" : "Coup de Grace",
+                    "desc" : "Deal more damage to low health enemy champions.",
+                    "img" : "http://evilpug.com/runes/coup-de-grace.png"
+                },
+                "secondmainrune" : {
+                    "title" : "Sorcery",
+                    "desc" : "Empowered abilities and resource manipulation",
+                    "img" : "http://evilpug.com/runes/sorcery.png"
+                },
+                "nextpagerunafirst" : {
+                    "title" : "Scorch",
+                    "desc" : "Your first ability hit every 20s burns champions.",
+                    "img" : "http://evilpug.com/runes/scorch.png"
+                },
+                "nextpagerunesecond" : {
+                    "title" : "Celerity",
+                    "desc" : "Gain 4% extra MS. Gain extra AP or AD, adaptive based on your bonus MS.",
+                    "img" : "http://evilpug.com/runes/celerity.png"
+                }
+            }
         }
 ]
 
