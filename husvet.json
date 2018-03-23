@@ -2,62 +2,62 @@
     {
         "id" : 0,
         "kateg" : "Humor",
-        "vers" : "Én apró gyerek vagyok, locsolkodni akarok. Van tojás, vagy nincs, jó lesz a forint. "
+        "vers" : "Én apró gyerek vagyok, locsolkodni akarok.\nVan tojás, vagy nincs, jó lesz a forint. "
     },
     {
         "id" : 1,
         "kateg" : "Humor",
-        "vers" : "Objektumban jártam, úszott betont láttam, nem akart megkötni, megszabad-e locsolni? "
+        "vers" : "Objektumban jártam,\núszott betont láttam,\nnem akart megkötni,\nmegszabad-e locsolni? "
     },
     {
         "id" : 2,
         "kateg" : "Humor",
-        "vers" : "Tarka réten jártam, sok virágot láttam, illatukat egy kis üvegbe bezártam ez a kis üvegcse itt lapul most nálam engedd meg hogy frizurádat vele eltaláljam. "
+        "vers" : "Tarka réten jártam,\nsok virágot láttam,\nillatukat egy kis üvegbe bezártam\n ez a kis üvegcse itt lapul most nálam\n engedd meg hogy frizurádat vele eltaláljam. "
     },
     {
         "id" : 3,
         "kateg" : "Humor",
-        "vers" : "Kerek erdő,templom, locsolok-e ? Nem 'tom. "
+        "vers" : "Kerek erdő,templom,\nlocsolok-e ? Nem 'tom. "
     },
     {
         "id" : 4,
         "kateg" : "Humor",
-        "vers" : "Van nekem egy kis locsolóm, Kölni nincsen benne, Ha én azt most elővenném, Nagy röhögés lenne. "
+        "vers" : "Van nekem egy kis locsolóm,\nKölni nincsen benne,\nHa én azt most elővenném, Nagy röhögés lenne. "
     },
     {
         "id" : 5,
         "kateg" : "Humor",
-        "vers" : "Előttem van Észak, Hátam mögött Dél, Balra a nap Nyugszik, Jobbra pedig: Kél-e locsolni? "
+        "vers" : "Előttem van Észak,\nHátam mögött Dél,\nBalra a nap Nyugszik,\nJobbra pedig: Kél-e locsolni? "
     },
     {
         "id" : 6,
         "kateg" : "Humor",
-        "vers" : "Nem vagyok én nyuszi, kell nekem a puszi! Gombold ki a blúzocskádat, hadd locsolom dombocskádat! "
+        "vers" : "Nem vagyok én nyuszi, kell nekem a puszi!\nGombold ki a blúzocskádat, hadd locsolom dombocskádat! "
     },
     {
         "id" : 7,
         "kateg" : "Humor",
-        "vers" : "Zöld erdőben jártam, felmásztam egy fára. Kilukadt a nadrágom, kiesett a tojásom. "
+        "vers" : "Zöld erdőben jártam, felmásztam egy fára.\nKilukadt a nadrágom, kiesett a tojásom. "
     },
     {
         "id" : 8,
         "kateg" : "Humor",
-        "vers" : "Itt állok gatyában, Locsoló van benne. Ha én azt elővenném. Nagy röhögés lenne! De én azt nem teszem, Mert kezemben a kölni! Locsolni jöttem, Nem pedig tökölni! "
+        "vers" : "Itt állok gatyában,\nLocsoló van benne.\nHa én azt elővenném.\nNagy röhögés lenne!\nDe én azt nem teszem,\nMert kezemben a kölni!\nLocsolni jöttem,\nNem pedig tökölni! "
     },
     {
         "id" : 9,
         "kateg" : "Humor",
-        "vers" : "Zöld erdőben jártam, Két oroszlánt láttam. Az egyik lázas, Ide a százast!  "
+        "vers" : "Zöld erdőben jártam,\nKét oroszlánt láttam.\nAz egyik lázas,\nIde a százast!  "
     },
     {
         "id" : 10,
         "kateg" : "Humor",
-        "vers" : "Illatos fű, moha, páfrány, Meglocsollak Házisárkány! "
+        "vers" : "Illatos fű, moha, páfrány,\nMeglocsollak Házisárkány! "
     },
     {
         "id" : 11,
         "kateg" : "Humor",
-        "vers" : "Felnézek az égre a versemnek vége. Szabad a locsolni? "
+        "vers" : "Felnézek az égre a versemnek vége.\nSzabad a locsolni? "
     },
     {
         "id" : 12,
@@ -72,22 +72,22 @@
     {
         "id" : 14,
         "kateg" : "Humor",
-        "vers" : "Virtuális locsolkodás, távolról is hatásos Nekem sem kell kölni hozzá, s te sem leszel bűzbájos"
+        "vers" : "Virtuális locsolkodás, távolról is hatásos\nNekem sem kell kölni hozzá, s te sem leszel bűzbájos"
     },
     {
         "id" : 15,
         "kateg" : "Humor",
-        "vers" : "KÉK erdőben jártam, ZÖLD ibolyát láttam, Szemészetre holnap mennék, de most még azért locsolkodnék."
+        "vers" : "KÉK erdőben jártam,\nZÖLD ibolyát láttam,\nSzemészetre holnap mennék,\nde most még azért locsolkodnék."
     },
     {
         "id" : 16,
         "kateg" : "Humor",
-        "vers" : "En most verssel nem keszültem, De hogy el ne hervadozzál, beraklak a zuhany alá."
+        "vers" : "En most verssel nem keszültem,\nDe hogy el ne hervadozzál, beraklak a zuhany alá."
     },
     {
         "id" : 17,
         "kateg" : "Humor",
-        "vers" : "Zöld erdőben piros tojás, Ibolya meg minden, Fogadjunk, hogy ha ott megállsz, Eltalállak innen!"
+        "vers" : "Zöld erdőben piros tojás,\nIbolya meg minden,\nFogadjunk, hogy ha ott megállsz,\nEltalállak innen!"
     },
     {
         "id" : 18,
@@ -97,91 +97,91 @@
     {
         "id" : 19,
         "kateg" : "Aranyos",
-        "vers" : "Én csak erre jártam, egy szép kislányt megláttam. Piros tojás, fehér nyuszi, szabad-e meglocsolni? "
+        "vers" : "Én csak erre jártam, egy szép kislányt megláttam.\nPiros tojás, fehér nyuszi, szabad-e meglocsolni? "
     },
     {
         "id" : 20,
         "kateg" : "Aranyos",
-        "vers" : "Nesze hát a rózsavíz, Gyöngyöm, gyöngyvirágom! Hol a tojás, piros tojás? Tarisznyámba várom! Szabad-e locsolni? "
+        "vers" : "Nesze hát a rózsavíz,\nGyöngyöm, gyöngyvirágom!\nHol a tojás, piros tojás?\nTarisznyámba várom!\nSzabad-e locsolni? "
     },
     {
         "id" : 21,
         "kateg" : "Aranyos",
-        "vers" : "Meglocsolnám rózsavízzel, hogyha előjönne, Akkor az a kicsi lány jaj de nagyot nőne. Megöntözlek gyorsan a harmat friss illatával, Teljen a talicskám sok szép piros tojással! "
+        "vers" : "Meglocsolnám rózsavízzel, hogyha előjönne,\nAkkor az a kicsi lány jaj de nagyot nőne.\nMegöntözlek gyorsan a harmat friss illatával,\nTeljen a talicskám sok szép piros tojással! "
     },
     {
         "id" : 22,
         "kateg" : "Aranyos",
-        "vers" : "Én még kicsi vagyok, Verset ezért nem is tudok, De majd jönnek a nagyok, Aztán majd mondanak azok. "
+        "vers" : "Én még kicsi vagyok,\nVerset ezért nem is tudok,\nDe majd jönnek a nagyok,\nAztán majd mondanak azok. "
     },
     {
         "id" : 23,
         "kateg" : "Aranyos",
-        "vers" : "Piros tojás, fehér nyuszi, Locsolásért jár egy puszi."
+        "vers" : "Piros tojás, fehér nyuszi,\nLocsolásért jár egy puszi."
     },
     {
         "id" : 24,
         "kateg" : "Aranyos",
-        "vers" : "Én kis kertész legény vagyok, Rózsavízzel locsolkodok. Úgy locsolom a lányokat, Mint kertész a virágokat. "
+        "vers" : "Én kis kertész legény vagyok,\nRózsavízzel locsolkodok.\nÚgy locsolom a lányokat,\nMint kertész a virágokat. "
     },
     {
         "id" : 25,
         "kateg" : "Aranyos",
-        "vers" : "Kelj fel párnádról szép ibolyavirág, Tekints ki az ablakon, milyen szép a világ. Megöntözlek gyorsan a harmat friss illatával, Teljen a talicskám sok szép piros tojással. "
+        "vers" : "Kelj fel párnádról szép ibolyavirág,\nTekints ki az ablakon, milyen szép a világ.\nMegöntözlek gyorsan a harmat friss illatával,\nTeljen a talicskám sok szép piros tojással. "
     },
     {
         "id" : 26,
         "kateg" : "Aranyos",
-        "vers" : "Rózsavíz a kezembe, Hadd öntsem a fejedre!"
+        "vers" : "Rózsavíz a kezembe,\nHadd öntsem a fejedre!"
     },
     {
         "id" : 27,
         "kateg" : "Aranyos",
-        "vers" : "Azért, amiért kicsi vagyok, Verset mondok, mint a nagyok. Mondókámat megtanultam, Locsolómat is elhoztam. Azért, mert én kicsi vagyok, Piros tojást én is kapok."
+        "vers" : "Azért, amiért kicsi vagyok,\nVerset mondok, mint a nagyok.\nMondókámat megtanultam,\nLocsolómat is elhoztam.\nAzért, mert én kicsi vagyok,\nPiros tojást én is kapok."
     },
     {
         "id" : 28,
-        "kateg" : "Nepies",
-        "vers" : "Kerek erdõn jártam Kék ibolyát láttam. El akart hervadni Meg szabad-e locsolni?"
+        "kateg" : "Aranyos",
+        "vers" : "Pici tojás pici nyuszi pici szádra pici puszi."
     },
     {
         "id" : 29,
         "kateg" : "Nepies",
-        "vers" : "Zöld erdõben jártam, Két õzikét láttam. Az egyik kacsintott, Ide a forintot!"
+        "vers" : "Zöld erdõben jártam,\nKét õzikét láttam.\nAz egyik kacsintott,\nIde a forintot!"
     },
     {
         "id" : 30,
         "kateg" : "Nepies",
-        "vers" : "Ajtó mellett állok, Piros tojást várok. Ha nem adják párjával, Elszökök a lányával!"
+        "vers" : "Ajtó mellett állok,\nPiros tojást várok.\nHa nem adják párjával,\nElszökök a lányával!"
     },
     {
         "id" : 31,
         "kateg" : "Nepies",
-        "vers" : "Láttam és találtam egy szép virágszálra, Engedelmet kérek meglocsolására. "
+        "vers" : "Láttam és találtam egy szép virágszálra,\nEngedelmet kérek meglocsolására. "
     },
     {
         "id" : 32,
         "kateg" : "Nepies",
-        "vers" : "Rózsa, rózsa szép virágszál, Szálló szélben hajladozzál. Napsütésben nyiladozzál, Meglocsollak, illatozzál. "
+        "vers" : "Rózsa, rózsa szép virágszál,\nSzálló szélben hajladozzál.\nNapsütésben nyiladozzál,\nMeglocsollak, illatozzál. "
     },
     {
         "id" : 33,
         "kateg" : "Nepies",
-        "vers" : "E szép házba nyitottam, Nefelejcset találtam, Nem hagyhatom hervadni, Meg szabad-e locsolni? "
+        "vers" : "E szép házba nyitottam,\nNefelejcset találtam,\nNem hagyhatom hervadni,\nMeg szabad-e locsolni? "
     },
     {
         "id" : 34,
         "kateg" : "Nepies",
-        "vers" : "Azt hallottam, hogy e háznál, van egy elhervadt virágszál. Rózsavízzel megöntözöm, úgy feléled, csupa öröm. "
+        "vers" : "Azt hallottam, hogy e háznál, van egy elhervadt virágszál.\nRózsavízzel megöntözöm, úgy feléled, csupa öröm. "
     },
     {
         "id" : 35,
         "kateg" : "Nepies",
-        "vers" : "Mint kertemben a sok rózsaszál, Olyan a friss, üde leány. Várj egy kicsit, szép szirom, Elhervadni nem hagyom! Szabad-e locsolni? "
+        "vers" : "Mint kertemben a sok rózsaszál,\nOlyan a friss, üde leány.\nVárj egy kicsit, szép szirom,\nElhervadni nem hagyom!\nSzabad-e locsolni? "
     },
     {
         "id" : 36,
         "kateg" : "Nepies",
-        "vers" : "Húsvét napja csupa öröm, A sok kislányt megöntözöm. Hideg kútvíz szoknyájukra, Piros tojás a markunkba!"
+        "vers" : "Húsvét napja csupa öröm,\nA sok kislányt megöntözöm.\nHideg kútvíz szoknyájukra,\nPiros tojás a markunkba!"
     }
 ]
